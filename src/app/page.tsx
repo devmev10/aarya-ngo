@@ -1,3 +1,7 @@
 export default function Home() {
-  return <div>Aarya Foundation</div>;
+  return (
+    <div>
+      <h1>Aarya Foundation</h1>
+    </div>
+  );
 }
